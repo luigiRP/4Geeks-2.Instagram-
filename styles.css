@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+#post {
+    margin: 0 auto;
+    background-color:white;
+    height: 550px;
+    width: 400px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 53px;
+}
+
+#post-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#post-header i {
+    font-size: 30px;
+}
+
+#post-name p{
+    margin-top: 0px ;
+    margin-bottom:0px;
+}
+
+header i{
+    margin-right: 20px;
+}
+
+#settings {
+    font-size: 20px !important; 
+}
+
+img {
+    width: 400px;
+}
+
+#post-options {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
